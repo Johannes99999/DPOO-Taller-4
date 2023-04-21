@@ -1,0 +1,13 @@
+Para correr el programa, uno debe correr la clase LightsOutGUI.
+
+Entre su nombre en la ventana que se abre.
+
+Intenta apagar todas las luces.
+
+Elige el tamaño de tablero que quiera.
+
+Verifique la lista Top10.
+
+Reinicia el mismo nivel o intenta un nuevo nivel.
+
+Cambia su nombre.
